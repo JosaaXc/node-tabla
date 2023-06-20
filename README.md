@@ -1,4 +1,4 @@
-#Notas: 
+# Notas: 
 Prueba de Node con consola.
 
 ```
